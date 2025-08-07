@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Software Engineering, Product Management | yuyingwu1998@gmail.com | 
+subtitle: Software Engineering, Product Management | yuyingwu1998@gmail.com
 
 profile:
   align: right
