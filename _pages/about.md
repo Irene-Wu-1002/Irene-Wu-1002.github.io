@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
+subtitle: Software Engineering, Product Management | yuyingwu1998@gmail.com | 
 
 profile:
   align: right
