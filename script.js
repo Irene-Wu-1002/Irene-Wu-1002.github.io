@@ -101,7 +101,7 @@ style.textContent = `
     }
     
     .nav-links a.active {
-        color: #007BFF;
+        color: #f39410;
         font-weight: 600;
     }
     

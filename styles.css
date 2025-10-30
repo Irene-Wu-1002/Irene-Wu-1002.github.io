@@ -14,15 +14,15 @@ body {
 
 /* Color System - Tech career palette */
 :root {
-    --color-primary: #007BFF;   /* Electric Blue */
-    --color-teal: #00C2A8;      /* Vibrant Teal */
-    --color-coral: #FB923C;     /* Bright Coral */
+    --color-primary: #f39410;   /* Electric Blue */
+    --color-teal: #ed7c43;      /* Vibrant Teal */
+    --color-coral: #FF9F1C;     /* Bright Coral */
     --color-orange: #FFA500;    /* Sunset Orange */
     --color-ink: #2E2E2E;       /* Charcoal Gray */
     --color-mist: #F9F9F9;      /* Soft White */
     --color-surface: #FFFFFF;   /* Cards */
-    --blue-100: #E9F2FF;        /* light electric blue */
-    --teal-100: #E6FFFA;        /* light teal */
+    --blue-100: #fdefdc;        /* light electric blue */
+    --teal-100: #fef9f5;        /* light teal */
 }
 
 .container {
@@ -141,7 +141,7 @@ body {
 }
 
 .btn-primary:hover {
-    background-color: #0063CC;
+    background-color: #FF9F1C;
     transform: translateY(-2px);
 }
 
@@ -152,8 +152,9 @@ body {
 }
 
 .btn-secondary:hover {
-    background-color: var(--color-primary);
+    background-color: #FF9F1C;
     color: var(--color-surface);
+    border-color: #FF9F1C;
     transform: translateY(-2px);
 }
 
@@ -195,7 +196,7 @@ section {
 .exp-item {
     position: relative;
     margin-bottom: 2rem;
-    padding-left: 1rem;
+    padding-left: 2rem;
 }
 
 .exp-item:before {
@@ -207,7 +208,7 @@ section {
     height: 8px;
     background: var(--color-primary);
     border-radius: 50%;
-    box-shadow: 0 0 0 3px rgba(0, 123, 255, 0.15);
+    box-shadow: 0 0 0 3px rgba(254, 215, 142, 0.931);
 }
 
 .exp-header {
@@ -291,7 +292,7 @@ section {
 }
 
 .stat-icon {
-    font-size: 1.1rem;
+    font-size: 1.5rem;
     margin-bottom: 0.5rem;
 }
 
